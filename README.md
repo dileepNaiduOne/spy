@@ -1,6 +1,6 @@
 <table style="border-collapse: collapse;">
   <tr>
-    <td><img src="SPY.png" alt="SPY Logo" height="50" width="50"></td>
+    <td><img src="SPY.png" alt="SPY Logo" height="100" width="100"></td>
     <td><h1>SPY - Social Profiling YōkAI</h1></td>
   </tr>
   <tr>

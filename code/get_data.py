@@ -6,7 +6,7 @@ from dotenv import load_dotenv
 load_dotenv()
 
 class Get_Data():
-
+    
     #############################
     #---Get Data From Twitter---#
     #############################

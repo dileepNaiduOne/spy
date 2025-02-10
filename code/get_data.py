@@ -92,7 +92,7 @@ class Get_Data():
 
 if __name__ == "__main__":
     reddit_human = Get_Data()
-    posts = reddit_human.get_reddits(username="AgentCausative")
+    posts = reddit_human.get_reddits(username="Lord_Of_Winter")
 
     for post in posts:
         print("Title:", post["title"])
